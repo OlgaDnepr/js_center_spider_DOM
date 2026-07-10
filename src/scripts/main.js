@@ -22,4 +22,3 @@ if (wall && spider) {
   // Сдвигаем паука по вертикали, добавляя 'px'
   spider.style.top = `${centerY}px`;
 }
-
